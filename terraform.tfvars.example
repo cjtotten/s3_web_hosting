@@ -1,0 +1,3 @@
+# Copy to terraform.tfvars (gitignored) and set your own values.
+bucket_name = "my-site"
+# region    = "us-east-1"
